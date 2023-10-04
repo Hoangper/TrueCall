@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "99742906658",
+    "project_id": "truecall-3b538",
+    "storage_bucket": "truecall-3b538.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:99742906658:android:ede9fcf96f9c12a72bcd7b",
+        "android_client_info": {
+          "package_name": "com.example.truecall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "99742906658-2ee6rf51isft17vtr8195r7rb4grgh8c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.truecall",
+            "certificate_hash": "c652dfbd266cbc72f0a5f124914b34cbbcb8b6da"
+          }
+        },
+        {
+          "client_id": "99742906658-rhpqvb7pg79jc26nf62k0ktjhr5m8dqf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAkEgwnsXLk6JLPr5k4rm6UixBWxG-NoY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "99742906658-rhpqvb7pg79jc26nf62k0ktjhr5m8dqf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
